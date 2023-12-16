@@ -4,8 +4,8 @@ Simple-nodejs-app is a simple web application created using [Node.js](https://gi
 
 ## Download and Installation
 
-- Clone the repo ```https://github.com/rat9615/simple-nodejs-app```
-- [Fork, Clone or Download on Github](https://github.com/rat9615/simple-nodejs-app)
+- Clone the repo ```https://github.com/mohabrabie/simple-nodejs-practice-docker.git```
+- [Fork, Clone or Download on Github](https://github.com/mohabrabie/simple-nodejs-practice-docker.git)
 
 ## Usage
 
